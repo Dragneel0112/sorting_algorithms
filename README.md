@@ -6,7 +6,7 @@
 
 ## Tasks
 ### Mandatory
-- [ ] Task 0
+- [x] Task 0
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
